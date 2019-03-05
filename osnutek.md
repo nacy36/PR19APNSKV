@@ -1,9 +1,6 @@
 # Opis problema in podatkov, ki jih nameravamo analizirati v projektu
 
-Aljaž Podkrižnik, 63170238
-Klemen Vogler, 63170305
-Nace Selišnik, 63170260
-
+Aljaž Podkrižnik (63170238), Klemen Vogler (63170305) in Nace Selišnik (63170260)
 
 Za projekt smo si izbrali analizo podatkov povezanih s prometnimi nesrečami na slovenskih cestah do leta 2014. Našli smo podatke glede na mesec in uro v dnevu in nesreče povezane z alkoholom ter vrste cest, kjer se zgodi največ prometnih nesreč. Našli smo tudi podatke o tem, kako se je prometna nesreča končala.
 
